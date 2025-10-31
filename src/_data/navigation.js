@@ -19,12 +19,20 @@ export default {
   ],
   bottom: [
     {
-      text: 'Style guide',
-      url: '/styleguide/'
+      text: 'Retailers',
+      url: '/retailers/'
     },
     {
-      text: 'Imprint',
-      url: '/imprint/'
+      text: 'Service Providers',
+      url: '/service-providers/'
+    },
+    {
+      text: 'Media Pack',
+      url: '/media-pack/'
+    },
+    {
+      text: 'Blog',
+      url: '/blog/'
     },
     {
       text: 'Privacy',

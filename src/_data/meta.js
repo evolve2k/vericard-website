@@ -15,7 +15,7 @@ export const author = {
   fediverse: '@vericard@fosstodon.org' // used for highlighting journalism on the fediverse. Can be Mastodon, Flipboard, Threads, WordPress (with the ActivityPub plugin installed), PeerTube, Pixelfed, etc. https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/
 };
 export const creator = {
-  name: 'Richie', // i.e. Lene Saile - creator's (developer) name.
+  name: 'Deming Factor', // i.e. Lene Saile - creator's (developer) name.
   email: 'hello@vericard.digital',
   website: 'https://www.lenesaile.com',
   social: 'https://front-end.social/@lene'

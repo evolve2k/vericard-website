@@ -11,7 +11,7 @@ layout: page
 
 Per Australian regulations, Social Media Providers are required to enable age verification solutions.
 
-How to use our service.
+How to use our product.
 
 1. Go here to [register for API access](https://vericard.digital/providers/register)
 2. Embed our 'Age Verification Check' into your service

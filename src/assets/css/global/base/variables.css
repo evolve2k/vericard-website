@@ -33,10 +33,10 @@
 /* Light theme */
 :root,
 :root[data-theme='light'] {
-  --color-text: var(--color-gray-800);
-  --color-bg: var(--color-gray-100);
+  --color-text: #1D1015;
+  --color-bg: #EBE8E8;
 
-  --color-primary: var(--color-pink);
+  --color-primary: #79040C; 
   --color-secondary: var(--color-blue);
   --color-tertiary: var(--color-gold);
 

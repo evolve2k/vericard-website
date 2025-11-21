@@ -1,11 +1,11 @@
-email: hola@somemail.com
+email: hello@vericard.digital
 address: |-
-  Organization name
+  Vericard
   Your street
   12345, city
   Tel: +34 928231911
 platforms:
   # github: 'https://github.com/madrilene/eleventy-excellent'
-  # mastodon: 'https://front-end.social/@lene'
+  mastodon: 'https://mastodon.au/@vericard'
   # bluesky: 'https://bsky.app/profile/lenesaile.com'
   # kofi: 'https://ko-fi.com/lenesaile'

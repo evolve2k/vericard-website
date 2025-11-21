@@ -1,23 +1,12 @@
 ---
 title: About
 permalink: /about/index.html
-description: 'Eleventy Excellent is inspired bythe companion website of Andy Bell’s talk "Be the browser’s mentor, not its micromanager".'
+description: 'We built vericard out of our concern for privacy.'
 layout: page
 ---
 
-This starter uses modern CSS, fluid type & space, flexible Layouts and Progressive Enhancement, wrapped in a basic template.
+As reports came in around the start of the under 16 social media ban, we and many of our friends and family all started to worry. Beyond the difficult questions around youth rights, we were also very concerned around the risk of this legislation becoming a digital ID and hailing in a massive surviallance aparatus, be it intentional or otherwise.
 
-It is built around the CSS boilerplate by Andy Bell and inspired by Andy's talk **'Be the browser’s mentor, not its micromanager'**.
+The options of uploading an ID to an untrusted internet provider or allowing a similar company to scan and assess my face with ID both seemed like the worst option.
 
-If you want to know exactly how it all works, [read this article on piccalil.li](https://piccalil.li/blog/a-css-project-boilerplate/).
-
-The aim is to spread the idea and use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/).
-
-- buildexcellentwebsit.es
-- Remix the original: https://glitch.com/edit/#!/remix/build-excellent-websites
-- Study the [original CSS boilerplate](https://github.com/Set-Creative-Studio/cube-boilerplate/tree/main)
-
-## Watch the talk
-
-<div><custom-youtube @slug="JqnMI1AXl6w" @label="Andy Bell – Be the browser’s mentor, not its micromanager"> </custom-youtube></div>
-
+It's for human privacy that we created vericard. We thought, Age ID has been checked for decades without the need for digital records to be kept. In most cases the store clerk or bar staff quickly checks an id and the vast majority of the time, soon after will forget most of the details. The age check is undertaken, but generally privacy is preserved.
